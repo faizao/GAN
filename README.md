@@ -1,3 +1,5 @@
+Adapted code by Jonas Mendonça (jonas.mendonca@usp.br)
+
 # Stochastic seismic waveform inversion using generative adversarial networks as a geological prior
 
 Authors: [Lukas Mosser](https://twitter.com/porestar), [Olivier Dubrule](https://www.imperial.ac.uk/people/o.dubrule), [Martin J. Blunt](https://www.imperial.ac.uk/people/m.blunt) 
